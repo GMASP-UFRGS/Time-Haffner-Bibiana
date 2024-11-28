@@ -7,7 +7,7 @@ O grupo é formado por pesquisadores dos Departamentos de Automação e Energia 
 Este repositório foi criado com o intuito de compartilhar projetos trabalhados pelos membros do GMASP, disponibilizando-os para estudos futuros.
 Os projetos são separados em:
 
--> TCC
+-> [TCCs](./TCC/)
 
 -> Dissertações
 
