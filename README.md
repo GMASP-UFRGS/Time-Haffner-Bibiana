@@ -1,4 +1,5 @@
 # GMASP - UFRGS
+![Imagem](./Identidade_Visual/capa.png)
 Grupo de Modelagem e Análise de Sistemas de Potência: https://www.ufrgs.br/gmasp/
 
 Desde 2004, o Grupo de Modelagem e Análise de Sistemas de Potência (GMASP) trabalha com pesquisa e desenvolvimento dentro da área de sistemas elétricos de potência. 
