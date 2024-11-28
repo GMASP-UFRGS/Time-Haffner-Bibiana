@@ -9,9 +9,9 @@ Os projetos são separados em:
 
 -> [TCCs](./TCC/)
 
--> [Dissertações](./Dissertacao/)
+-> [Dissertações](./Dissertação/)
 
--> [Teses](./Teses/)
+-> [Teses](./Tese/)
 
 -> [Artigos](./Artigos/)
 
