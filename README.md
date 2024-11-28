@@ -18,19 +18,20 @@ Os projetos são separados em:
 
 
 Em caso de dúvidas, entre em contato com um dos colaboradores deste repositório:
-Orientadores(as): 
+
+**Orientadores(as):**
 
 Prof. Sérgio Haffner: 
 
 Profa. Bibiana Petry: bibiana.petry@ufrgs.br
 
 
-Doutorandos(as):
+**Doutorandos(as):**
 
 Andrei Ferreira:
 
 
-Mestrandos(as):
+**Mestrandos(as):**
 
 Affonso Ribeiro: affonso.ribeiro@outlook.com
 
