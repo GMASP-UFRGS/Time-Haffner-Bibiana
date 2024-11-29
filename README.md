@@ -18,7 +18,7 @@ Os projetos são separados em:
 
 Atualmente temos os seguintes grupos de estudo dedicados a assuntos específicos, conforme abaixo:
 
--> [BDGD e sua utilização para fluxos de potência](5.Grupos_de_trabalho/BDGD/)
+-> [BDGD e sua utilização para fluxos de potência](5.Grupos_de_trabalho/BDGD/)  
 
 
 Em caso de dúvidas, entre em contato com um dos colaboradores deste repositório:
