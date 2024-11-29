@@ -23,17 +23,18 @@ Em caso de dúvidas, entre em contato com um dos colaboradores deste repositóri
 
 **Orientadores(as):**
 
-Prof. Sérgio Haffner: 
+Prof. Sérgio Haffner: haffner@ieee.org
 
 Profa. Bibiana Petry: bibiana.petry@ufrgs.br
 
 
 **Doutorandos(as):**
 
-Andrei Ferreira:
+Andrei Ferreira: andreif.luz2@gmail.com
 
 
 **Mestrandos(as):**
 
 Affonso Ribeiro: affonso.ribeiro@outlook.com
 
+Guilherme Roballo: guilhermeroballo@gmail.com
