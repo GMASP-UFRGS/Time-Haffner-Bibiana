@@ -5,10 +5,9 @@ Grupo de Modelagem e Análise de Sistemas de Potência: https://www.ufrgs.br/gma
 Desde 2004, o Grupo de Modelagem e Análise de Sistemas de Potência (GMASP) trabalha com pesquisa e desenvolvimento dentro da área de sistemas elétricos de potência. 
 O grupo é formado por pesquisadores dos Departamentos de Automação e Energia (DELAE), de Engenharia Elétrica (DELET) e Interdisciplinar (CLN) da UFRGS.
 
-
 Este repositório foi criado com o intuito de compartilhar projetos trabalhados pelos membros do GMASP, disponibilizando-os para estudos futuros.
-Os projetos são separados em:
 
+Arquivos:
 -
 -> [Teses](./1.Teses/)
 
@@ -17,15 +16,15 @@ Os projetos são separados em:
 -> [TCCs](./3.TCCs/)
 
 -> [Artigos](./4.Artigos/)
+
+
+Grupos de trabalho:
 -
-
-Atualmente temos os seguintes grupos de estudo dedicados a assuntos específicos, conforme abaixo:
-
 -> [BDGD e sua utilização para fluxos de potência](5.Grupos_de_trabalho/BDGD/)  
+
+
+Colaboradores deste repositório:
 -
-
-Em caso de dúvidas, entre em contato com um dos colaboradores deste repositório:
-
 **Orientadores(as):**
 
 Prof. Sérgio Haffner: haffner@ieee.org
