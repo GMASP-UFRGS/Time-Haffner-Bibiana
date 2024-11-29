@@ -8,15 +8,17 @@ O grupo é formado por pesquisadores dos Departamentos de Automação e Energia 
 Este repositório foi criado com o intuito de compartilhar projetos trabalhados pelos membros do GMASP, disponibilizando-os para estudos futuros.
 Os projetos são separados em:
 
--> [TCCs](./TCC/)
+-> [Teses](./1.Teses/)
 
--> [Dissertações](./Dissertação/)
+-> [Dissertações](./2.Dissertacoes/)
 
--> [Teses](./Tese/)
+-> [TCCs](./3.TCCs/)
 
--> [Artigos](./Artigos/)
+-> [Artigos](./4.Artigos/)
 
+Atualmente temos os seguintes grupos de estudo dedicados a assuntos específicos, conforme abaixo:
 
+-> [BDGD e sua utilização para fluxos de potência](5.Grupos_de_trabalho/BDGD/)
 
 
 Em caso de dúvidas, entre em contato com um dos colaboradores deste repositório:
