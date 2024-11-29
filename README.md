@@ -20,7 +20,7 @@ Arquivos:
 
 Grupos de trabalho:
 -
--> [BDGD e sua utilização para fluxos de potência](./5.Grupos_de_trabalho/BDGD/)  
+-> [BDGD](./5.Grupos_de_trabalho/BDGD/)  
 
 
 Colaboradores deste repositório:
