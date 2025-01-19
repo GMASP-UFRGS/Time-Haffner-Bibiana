@@ -31,3 +31,7 @@ Elaboração dos arquivos OpenDSS:
 LineCodes: Vai usar basicamente as informações da tabela “SEGCON”
 Lines: Vai usar as informações da tabela “RAMLIG” e “SSDBT”. O nome das barras pode ser o “PN_COD”, por exemplo.
 LoadShape: Irá usar a curva de carga de cada UC
+
+
+Dados disponíveis em:
+https://drive.google.com/drive/folders/1p-M02bi5KHNoVcf9qmSf60IwHs_ppRE6?usp=drive_link
