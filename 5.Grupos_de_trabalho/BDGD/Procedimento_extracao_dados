@@ -1,0 +1,33 @@
+Procedimento para extração de dados da BDGD:
+
+1.	Escolher o alimentador:
+Tabela: CTMT
+Atividade: Na planilha designada, escolher qual alimentador de MT será analisado. Gravar o número da coluna “COD_ID”
+
+2.	Escolher as unidades de BT:
+Tabela: UCBT 
+Atividade: Na coluna “CTMT”, colar o código escolhido anteriormente, de forma a filtrar as unidades que pertencem a esse alimentador. Desta coluna, serão salvos os valores de “COD_ID”, que corresponde ao número da UC, e de “PN_CON”, que corresponde ao ponto físico em que a UC está conectada. 
+Nas colunas “ENE_01” a “ENE_12” serão informados os valores de consumo das unidades, em [kWh], para geração das curvas de carga.
+
+3.	Verificar o comprimento do ramal:
+Tabela: RAMLIG
+Atividade: Na coluna “PN_CON_1”, colar o código “COD_ID” de cada UC, de forma a filtrar pelas UCBT e UCMT. Na coluna “COMP” será retornado o valor do comprimento do ramal, em metros [m].
+Na coluna “TIP_CND” será informado o código do tipo de condutor.
+
+4.	Verificar a especificação do condutor:
+Tabela: SEGCON
+Atividade: Com o código obtido na tabela “RAMLIG”, na coluna “TIP_CND”, consultar as especificações do condutor. Nas colunas “R1” e “X1” são expressos os valores da resistência e reatância de sequência positiva do circuito, respectivamente, em [ohm/km]
+Na coluna “CND_FAS” são mostrados os números de condutores por fase.
+Na coluna “CNOM” é mostrado o valor nominal de corrente, em [A], dos condutores.
+
+5.	Fazer ligação entre barras:
+Tabela: SSDBT
+Atividade: Através dos valores verificados na tabela “UCBT”, na coluna “PN_CON”, fazer comparação de ligação dos ramais, usando as colunas “PN_CON_1” e “PN_CON_2”.
+
+
+
+
+Elaboração dos arquivos OpenDSS:
+LineCodes: Vai usar basicamente as informações da tabela “SEGCON”
+Lines: Vai usar as informações da tabela “RAMLIG” e “SSDBT”. O nome das barras pode ser o “PN_COD”, por exemplo.
+LoadShape: Irá usar a curva de carga de cada UC
