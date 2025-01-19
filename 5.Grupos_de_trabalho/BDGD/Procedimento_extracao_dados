@@ -20,7 +20,7 @@ Atividade: Com o código obtido na tabela “RAMLIG”, na coluna “TIP_CND”,
 Na coluna “CND_FAS” são mostrados os números de condutores por fase.
 Na coluna “CNOM” é mostrado o valor nominal de corrente, em [A], dos condutores.
 
-**-> 5.	Fazer ligação entre barras:**
+-> 5.	Fazer ligação entre barras:
 Tabela: SSDBT
 Atividade: Através dos valores verificados na tabela “UCBT”, na coluna “PN_CON”, fazer comparação de ligação dos ramais, usando as colunas “PN_CON_1” e “PN_CON_2”.
 
